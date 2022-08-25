@@ -8,10 +8,7 @@ ls
 
 <p align="left"> <a href="https://twitter.com/codematorng" target="blank"><img src="https://img.shields.io/twitter/follow/codematorng?logo=twitter&style=for-the-badge" alt="codemator" /></a> </p>
 
-- 🔭 I’m currently working on <ul>
-<li>**a clone of the AirBnB web app**</li>
-<li>**The Fyyur Music App**</li>
-</ul>
+- 🔭 I’m currently working on <ul><li>**a clone of the AirBnB web app**</li><li>**The Fyyur Music App**</li></ul>
 
 
 - 🌱 I’m currently learning **Javascript**
