@@ -1,4 +1,3 @@
-ls
 ![MasterHead](./assets/GithubHeader-PhilipNnaa.png)
 
 <h2 align="center">A Software Engineer |Tech Enthusiast</h2>
