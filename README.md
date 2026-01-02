@@ -21,7 +21,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 ### 👋 Hi, I’m Philips (CODEmator)
 
-I’m a **backend-focused Software Engineering student at Miva Open University**, building practical systems with **Node.js, Python, C**, and **Vue.js**.
+I’m a **backend-focused Software Engineering student at Miva Open University**, building practical systems with **Node.js, Python, C, Flutter**, and **Vue.js**.
 
 My journey into tech hasn’t been linear. I intentionally pivoted into software engineering after navigating academic transitions, responsibility, and real-life challenges. Those experiences shaped how I approach engineering today: **systems-first thinking, resilience, and accountability**.
 
@@ -41,7 +41,7 @@ Beyond code, I bring strong **communication and public speaking skills**, develo
 ### 🌱 Currently Learning & Improving
 - Backend engineering with **Node.js & Python**
 - Low-level programming fundamentals with **C**
-- Frontend development using **Vue.js**
+- Frontend development using **Vue.js & Flutter**
 - System design, APIs, and data structures
 
 ---
